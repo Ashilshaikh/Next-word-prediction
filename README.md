@@ -28,3 +28,5 @@ A Streamlit app for next-word prediction using a trained Keras LSTM model.
 
 - Make sure the model and tokenizer files are present in the project root.
 - Use the workspace virtual environment so the correct Python packages are loaded.
+ To run use
+ https://next-word-prediction-2-jwrz.onrender.com
